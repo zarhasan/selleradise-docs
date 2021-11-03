@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Common Issues
@@ -14,7 +14,7 @@ The most common reason behind this issue is **PHP upload limit** set on your ser
 
 ### Solution
 
-Increase php upload limit from your cPanel to at least **64 MB**.
+Increase php upload limit from your cPanel to at least **128 MB**.
 
 ### Links
 
