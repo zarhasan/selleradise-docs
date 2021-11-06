@@ -10,4 +10,5 @@ This is documentation for admins and users of the theme.
 
 **Go to**
 
-- **[User Guide](/docs/getting-started/theme-installation)** - for WordPress beginners and administrators.
+- **[Getting started](/docs/getting-started/requirements)**
+- **[Customization](/docs/customization/identity)**
