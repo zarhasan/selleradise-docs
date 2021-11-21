@@ -6,8 +6,6 @@ sidebar_position: 1
 
 Selleradise utilizes many modern features of WordPress, PHP and MySQL. So you'll need make sure that everything is up to the mark before running the installation.
 
-## Minimum
-
 - WordPress Version : **5.5 or higher**
 - PHP Version : **7.1 or higher**
 - MySQL version : **5.6 or higher**
