@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Common Issues
 
+Selleradise is built to be beginner friendly but sometimes you might encounter issues with things that are outside of our control such as your Server.
+
 ## The link you followed has expired
 
 ![An image](/img/theme-upload-link-expired-error.png)
@@ -14,7 +16,7 @@ The most common reason behind this issue is **PHP upload limit** set on your ser
 
 ### Solution
 
-Increase php upload limit from your cPanel to at least **128 MB**.
+Increase php upload limit from your cPanel to at least **32 MB**.
 
 ### Links
 

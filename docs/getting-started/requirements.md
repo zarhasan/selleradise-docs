@@ -9,5 +9,5 @@ Selleradise utilizes many modern features of WordPress, PHP and MySQL. So you'll
 - WordPress Version : **5.5 or higher**
 - PHP Version : **7.1 or higher**
 - MySQL version : **5.6 or higher**
-- memory_limit : **128MB**
-- upload_max_filesize : **32MB**
+- memory_limit : **128MB or higher**
+- upload_max_filesize : **32MB or higher**
