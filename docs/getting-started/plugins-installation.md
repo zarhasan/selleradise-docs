@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ---
 
-Once the theme installation is complete should see a dialog app on top of the page, calling you to install the plugins. You just need to follow what is says.
+Once the theme installation is complete should see a dialog appear on top of the page, calling you to install the plugins. You just need to follow what is says.
 
 ## 1. Begin installing plugins
 
