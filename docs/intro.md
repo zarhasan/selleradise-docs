@@ -11,4 +11,4 @@ This is documentation for admins and users of the theme.
 **Go to**
 
 - **[Getting started](/docs/getting-started/requirements)**
-- **[Customization](/docs/customization/identity)**
+- **[Customization](/docs/customization/customizer)**
