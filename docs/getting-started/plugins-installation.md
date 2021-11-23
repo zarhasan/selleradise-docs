@@ -1,10 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 40
 ---
 
 # Plugins installation
-
----
 
 Once the theme installation is complete should see a dialog app on top of the page, calling you to install the plugins. You just need to follow what is says.
 

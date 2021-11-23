@@ -12,3 +12,4 @@ This is documentation for admins and users of the theme.
 
 - **[Getting started](/docs/getting-started/requirements)**
 - **[Customization](/docs/customization/customizer)**
+- **[Elementor](/docs/elementor-widgets/products)**

@@ -1,12 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 30
 ---
 
 # Theme installation
 
----
-
-Installation of selleradise is pretty straightforward process. This is a step by step guide on how to it. After this tutorial you should know how install a WordPress theme even if you have never done it before.
+Installation of selleradise is pretty straightforward process. This is a step by step guide on how to do it properly. By following this guide you should be able to install a WordPress theme even if you have never done it before.
 
 ## 1. Upload the theme
 
