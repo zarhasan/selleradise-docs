@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "redoxbird", // Usually your GitHub org/user name.
+  organizationName: "RedOxbird", // Usually your GitHub org/user name.
   projectName: "selleradise", // Usually your repo name.
   presets: [
     [
