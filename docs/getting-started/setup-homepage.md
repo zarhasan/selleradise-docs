@@ -6,10 +6,40 @@ sidebar_position: 50
 
 Here you will learn how to setup the homepage from the Demos. Please note that **Elementor** and **Selleradise Widgets** must be installed before proceeding.
 
-## 1. Add a new page
+## 1. Set a new homepage
 
-## 2. Set the page as homepage
+First you will need to add a new page. Go to **Pages > Add New**.
 
-## 3. Import Elementor template
+![Add a new page](/img/getting-started/setup-homepage/add.png)
 
-## 4. Use Elementor template on the page
+Give that page a name publish it. Make sure it uses **Elementor Full Width** page template.
+
+![Publish the page](/img/getting-started/setup-homepage/publish.png)
+
+Now go the **Settings > Reading**.
+
+![Settings page](/img/getting-started/setup-homepage/settings-reading.png)
+
+From there select the **A static page** and your page as the **Homepage**.
+
+![Settings static page](/img/getting-started/setup-homepage/settings-static-page.png)
+
+Save the settings and we are done.
+
+## 2. Import Elementor template
+
+Now go to **Templates > Saved Templates**.
+
+![Import elementor template](/img/getting-started/setup-homepage/import-template.png)
+
+Click on the **Import Templates**.
+
+![Import elementor template complete](/img/getting-started/setup-homepage/import-complete.png)
+
+Select the file provided in **selleradise-demo-data.zip**. For **Fashion** file should be ** selleradise-demo-data > fashion > elementor-template.json**.
+
+## 3. Insert Elementor template on the page
+
+Now go back to **All Pages** and click on **edit with elementor** on the page we just created.
+
+![Import elementor template complete](/img/getting-started/setup-homepage/insert-template.png)
