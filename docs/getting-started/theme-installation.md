@@ -30,7 +30,7 @@ Once you select the file a **Install Now** button should appear. Simply click on
 
 ## 3. Activate the theme
 
-Once completed you should see the text as should in the image below.
+Once completed you should see the text as shown in the image below.
 
 ![An image](/img/getting-started/theme-installation/appearance-themes-complete.png)
 

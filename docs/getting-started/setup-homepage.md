@@ -12,7 +12,7 @@ First you will need to add a new page. Go to **Pages > Add New**.
 
 ![Add a new page](/img/getting-started/setup-homepage/add.png)
 
-Give that page a name publish it. Make sure it uses **Elementor Full Width** page template.
+Give that page a name and publish it. Make sure it uses **Elementor Full Width** page template.
 
 ![Publish the page](/img/getting-started/setup-homepage/publish.png)
 
@@ -24,15 +24,15 @@ From there select the **A static page** and your page as the **Homepage**.
 
 ![Settings static page](/img/getting-started/setup-homepage/settings-static-page.png)
 
-Save the settings.
+and finally save the settings.
 
 ## 2. Import Elementor template
 
-Now go to **Templates > Saved Templates**.
+First go to **Templates > Saved Templates**.
 
 ![Import elementor template](/img/getting-started/setup-homepage/import-template.png)
 
-Choose the template file from your computer provided in **selleradise-demo-data.zip**. For **Fashion** file should be ** selleradise-demo-data > fashion > elementor-template.json**.
+Choose the template file from your computer provided in **selleradise-demo-data.zip**. For **Fashion** demo, it should be ** selleradise-demo-data > fashion > elementor-template.json**.
 
 ![](/img/getting-started/setup-homepage/choose-template-file.png)
 

@@ -4,7 +4,7 @@ sidebar_position: 60
 
 # Common Issues
 
-Selleradise is built to be beginner friendly but sometimes you might encounter issues with stuff which is outside of our control such as your Server.
+Selleradise is built to be beginner-friendly but sometimes you might encounter issues with stuff that is outside of our control such as your Server.
 
 ## The link you followed has expired
 

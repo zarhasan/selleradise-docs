@@ -26,7 +26,7 @@ After extracting the **selleradise-full.zip**. You will get **selleradise-demo-d
 
 ## 1. Import Products
 
-To import demo you will need **products.csv**. Once you have the file go to **Tools > Import**. Then locate **WooCommerce products (CSV)**. And click on **Run Importer**.
+To import demo you will need **products.csv**. Once you have the file, go to **Tools > Import** and locate **WooCommerce products (CSV)**. Then click on **Run Importer**.
 
 ![Run importer](/img/getting-started/import-demo-data/run-importer.png)
 
@@ -46,7 +46,7 @@ Then importer will run for a few minutes and all the products should be imported
 
 ## 2. Import Posts, Testimonial and FAQs
 
-To import demo you will need **posts-testimonials-faqs.xml**. Once you have the file go to **Tools > Import**. Then locate **WordPress**. And click on **Run Importer**.
+To import demo posts, you will need **posts-testimonials-faqs.xml**. Once you have the file go to **Tools > Import** and locate **WordPress**. And click on **Run Importer**.
 
 ![](/img/getting-started/import-demo-data/posts-find-importer.png)
 
@@ -58,4 +58,4 @@ Then select the author and make sure **Download and import file attachments** is
 
 ![](/img/getting-started/import-demo-data/posts-select-author.png)
 
-Once done all the content should be imported.
+After that all the content should be imported.
