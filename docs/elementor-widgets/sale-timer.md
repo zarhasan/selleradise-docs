@@ -1,5 +1,7 @@
 ---
-sidebar_position: 40
+sidebar_position: 30
 ---
 
 # Sale Countdown Timer
+
+Content will be added soon.

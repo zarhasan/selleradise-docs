@@ -45,3 +45,17 @@ Then importer will run for a few minutes and all the products should be imported
 ![](/img/getting-started/import-demo-data/complete-woo-importer.png)
 
 ## 2. Import Posts, Testimonial and FAQs
+
+To import demo you will need **posts-testimonials-faqs.xml**. Once you have the file go to **Tools > Import**. Then locate **WordPress**. And click on **Run Importer**.
+
+![](/img/getting-started/import-demo-data/posts-find-importer.png)
+
+Then choose the file mentioned above and click on **Upload file and import**.
+
+![](/img/getting-started/import-demo-data/posts-upload-file.png)
+
+Then select the author and make sure **Download and import file attachments** is checked. Finally click on **Submit**.
+
+![](/img/getting-started/import-demo-data/posts-select-author.png)
+
+Once done all the content should be imported.
