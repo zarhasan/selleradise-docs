@@ -4,16 +4,13 @@ sidebar_position: 45
 
 # Import Demo Content
 
-After extracting the **selleradise-full.zip**. You will get **selleradise-demo-data.zip** which needs to be extracted as well. Once done you should have files with following structure.
+## 1. Download The Demo Content
+
+- [GitHub Repository](https://github.com/redoxbird/demo-content)
+- [Direct Link](https://github.com/redoxbird/demo-content/releases/download/v1.1.0/demo-content.zip)
 
 ```
-├── cosmetics
-│   ├── elementor-template.json
-│   └── products.csv
 ├── fashion
-│   ├── elementor-template.json
-│   └── products.csv
-├── furniture
 │   ├── elementor-template.json
 │   └── products.csv
 ├── posts
@@ -24,7 +21,7 @@ After extracting the **selleradise-full.zip**. You will get **selleradise-demo-d
 ├── posts-testimonials-faqs.xml
 ```
 
-## 1. Import Products
+## 2. Import Products
 
 To import demo you will need **products.csv**. Once you have the file, go to **Tools > Import** and locate **WooCommerce products (CSV)**. Then click on **Run Importer**.
 
