@@ -66,6 +66,23 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        // If Algolia did not provide you any appId, use 'BH4D9OD16A'
+        appId: "7TX0JBTZWD",
+
+        // Public API key: it is safe to commit it
+        apiKey: "6ca21dc4162a67792b98fcdd890ad276",
+
+        indexName: "selleradise_docs",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        //... other Algolia params
+      },
     }),
 };
 

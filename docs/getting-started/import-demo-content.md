@@ -7,7 +7,7 @@ sidebar_position: 45
 ## 1. Download The Demo Content
 
 - [GitHub Repository](https://github.com/redoxbird/demo-content)
-- [Direct Link](https://github.com/redoxbird/demo-content/releases/latest)
+- [Direct Link](https://github.com/redoxbird/demo-content/releases/download/v1.0.0/demo-content.zip)
 
 ```
 ├── fashion
